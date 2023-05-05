@@ -12,5 +12,5 @@ export const links = [
 ];
 
 export const app = {
-  title: 'Template',
+  title: 'Star Wars',
 }
