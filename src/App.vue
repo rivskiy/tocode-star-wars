@@ -10,7 +10,7 @@
   </div>
 </template>
 
-<script>
+<script lang="ts">
 import Header from "../src/components/Header-main.vue";
 import Footer from "../src/components/Footer-main.vue";
 
@@ -19,11 +19,6 @@ export default {
     Header,
     Footer,
   },
-  data() {
-    return {
-
-    }
-  }
 };
 </script>
 
